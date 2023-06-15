@@ -43,9 +43,10 @@ a:hover{
     
 }
 
-.filmes{
-    width: 32%;
-    margin: 30px;
+.Filmes{
+    width: 27%;
+    margin: 20px 15px;
+   
     
 
 
@@ -59,6 +60,7 @@ figure{
 
 footer{
     background-color: #1f1f1f;
+    text-align: center;
 
 }
 p{
@@ -68,11 +70,14 @@ p{
 
    
 }
-.rodaPe{
-    display: inline;
-    width: 2%;
+.imgFooter{
     display: inline-block;
-    text-align: right;
+}
+
+.rodaPe{
+    width: 20%;
+    display: inline-block;
+    margin: 10px;
  
 }
 
